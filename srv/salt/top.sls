@@ -1,0 +1,5 @@
+base:
+  '*':
+    - hadoop
+    - python
+    - frameworks
